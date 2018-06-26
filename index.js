@@ -1,3 +1,6 @@
+// function additions (x,y){
+return x+y
+}
 function shout(string)
 {
   return string. toUpperCase()
